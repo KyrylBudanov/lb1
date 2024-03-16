@@ -1,0 +1,13 @@
+surname = input("Введіть прізвище студента: ")
+initials = input("Введіть ініціали студента: ")
+faculty = input("Введіть факультет: ")
+specialty = input("Введіть спеціальність: ")
+study_form = input("Введіть форму навчання: ")
+group = input("Введіть групу: ")
+
+print("Інформація про студента:")
+print("Прізвище та ініціали:", surname, initials)
+print("Факультет:", faculty)
+print("Спеціальність:", specialty)
+print("Форма навчання:", study_form)
+print("Група:", group)
